@@ -2,7 +2,6 @@ package busschedule.data
 
 import androidx.room.Dao
 import androidx.room.Query
-import busschedule.data.BusSchedule
 import kotlinx.coroutines.flow.Flow
 
 @Dao
